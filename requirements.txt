@@ -2,8 +2,6 @@ py -m venv myenv
 
 myenv\Scripts\activate
 
-pip uninstall rest_framework
-
 pip install rest_framework
 
 pip install djangorestframework-jsonapi
