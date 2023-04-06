@@ -12,4 +12,6 @@ pip install requests
 
 pip install pillow
 
+pip install paypal-checkout-serversdk 
+
 py manage.py runserver
