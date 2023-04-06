@@ -1,7 +1,3 @@
-# testproject_bookstore
-
-Requirements:
-
 py -m venv myenv
 
 myenv\Scripts\activate
